@@ -550,7 +550,7 @@
 
 \bigskip
 
-by
+por
 
 \bigskip
 
@@ -918,7 +918,7 @@ Date
 \renewcommand{\baselinestretch}{1}	% single spaced to end of paragraph.
 \small\normalsize					% size switch to make the spacing behave
 #3\\
-The University of Arizona, #4
+Universidad Nacional de Río Cuarto, #4
 
 \end{center}
 

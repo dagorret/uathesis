@@ -6,8 +6,8 @@
 # Viewers - Change these to your favorites
 #PSVIEWER = gv
 #PDFVIEWER = xpdf
-PSVIEWER = open -a Preview
-PDFVIEWER = open -a Preview
+PSVIEWER = evince -w 
+PDFVIEWER = evince -w
 
 
 # Processors
@@ -61,7 +61,6 @@ all:		$(IMAGEFILES) $(GOALS)
 		$(PS2PDF) $<
 		mv $<.copy $<
 		$(PDFVIEWER) $@
-		
 
 clean: 		
 		$(FIND) ./ \
