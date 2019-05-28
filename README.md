@@ -1,9 +1,5 @@
-# The University of Arizona Thesis Template
+# Plantilla para Tésis basada en la de la Universidad de Arizona
 
-This is a LaTeX thesis template for graduate students at The University of
-Arizona. This template was last updated in 2013 to match current Graduate
-College requirements.
+Esta es una plantilla de tésis para estudiantes de grado basasa en la plantilla de la Universidad de Arizona 2013, para estudiantentes de grado.
 
-In addition, a new class format for writting dissertation proposals was added.
-
-Please see README.txt for further information.
+La misma se base en modificaciones a la plantilla de : <https://github.com/trananh/uathesis>
